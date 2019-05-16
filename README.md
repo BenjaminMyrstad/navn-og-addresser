@@ -1,2 +1,2 @@
-# navn-og-addresser
-Norske navn og addresser hentet fra ssb og kartverket
+# navn-og-adresser
+Norske navn og adresser hentet fra ssb og kartverket
